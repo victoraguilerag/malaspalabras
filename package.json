@@ -1,0 +1,15 @@
+{
+  "name": "malaspalabras",
+  "version": "1.0.0",
+  "description": "Slackbot for Alderaan Studios",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.2.0",
+    "slackbots": "^1.1.0"
+  }
+}
